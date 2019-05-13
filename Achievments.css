@@ -1,0 +1,30 @@
+
+body{
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+
+}
+
+
+ol{
+	text-decoration: none;
+	list-style: none;
+}
+.Intrests{
+	margin-top: 200px;
+	font-size: 90px;
+	margin-left: 652px;
+}
+li{
+	margin-bottom: 10px;
+}
+.dr:hover{
+	color: rgba(50,151,162,0.5);
+}
+.cd:hover{
+	color: rgba(50,151,162,0.5);
+}
+.sp:hover{
+	color: rgba(50,151,162,0.5);
+}
